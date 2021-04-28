@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bryan\\Documents\\Coding\\ProjetoNextSoft\\NextSoftTest\\NextSoftTest.csproj": {}
+    "C:\\Users\\Bryan\\Documents\\Coding\\Projects\\CSharp\\NextSoftTestProject\\API\\NextSoftTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bryan\\Documents\\Coding\\ProjetoNextSoft\\NextSoftTest\\NextSoftTest.csproj": {
+    "C:\\Users\\Bryan\\Documents\\Coding\\Projects\\CSharp\\NextSoftTestProject\\API\\NextSoftTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bryan\\Documents\\Coding\\ProjetoNextSoft\\NextSoftTest\\NextSoftTest.csproj",
+        "projectUniqueName": "C:\\Users\\Bryan\\Documents\\Coding\\Projects\\CSharp\\NextSoftTestProject\\API\\NextSoftTest.csproj",
         "projectName": "NextSoftTest",
-        "projectPath": "C:\\Users\\Bryan\\Documents\\Coding\\ProjetoNextSoft\\NextSoftTest\\NextSoftTest.csproj",
+        "projectPath": "C:\\Users\\Bryan\\Documents\\Coding\\Projects\\CSharp\\NextSoftTestProject\\API\\NextSoftTest.csproj",
         "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bryan\\Documents\\Coding\\ProjetoNextSoft\\NextSoftTest\\obj\\",
+        "outputPath": "C:\\Users\\Bryan\\Documents\\Coding\\Projects\\CSharp\\NextSoftTestProject\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

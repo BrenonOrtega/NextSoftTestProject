@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xlyqadve6/cNj7lp0FqI9XIyCePPUHr7GO73hLZtTtcVWuss2JGhigv9tPGO2Xp3EsN4r4uPvZARvKUuOsL9LQ==",
+  "dgSpecHash": "28/HUqUznsf0wQtjWzhE4vZ5yej8kyqntrcgeNQcahucQvTnzUdB8YOZXWpCbkqOgCyEiNpDjp3YXXjN6T0mPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bryan\\Documents\\Coding\\ProjetoNextSoft\\NextSoftTest\\NextSoftTest.csproj",
+  "projectFilePath": "C:\\Users\\Bryan\\Documents\\Coding\\Projects\\CSharp\\NextSoftTestProject\\API\\NextSoftTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bryan\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Bryan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
